@@ -1,0 +1,144 @@
+{
+  "server": [
+    {
+      "id": 0,
+      "host": "AAServer1",
+      "ip": "133.172.104.18",
+      "country": "AT",
+      "status": true
+    },
+    {
+      "id": 1,
+      "host": "DDServer1",
+      "ip": "50.238.111.145",
+      "country": "NL",
+      "status": true
+    },
+    {
+      "id": 2,
+      "host": "CCServer7",
+      "ip": "58.10.46.99",
+      "country": "NL",
+      "status": false
+    },
+    {
+      "id": 3,
+      "host": "DDServer8",
+      "ip": "91.80.186.247",
+      "country": "AT",
+      "status": false
+    },
+    {
+      "id": 4,
+      "host": "BBServer8",
+      "ip": "39.217.137.82",
+      "country": "NL",
+      "status": true
+    },
+    {
+      "id": 5,
+      "host": "DDServer4",
+      "ip": "18.247.151.77",
+      "country": "HU",
+      "status": false
+    },
+    {
+      "id": 6,
+      "host": "DDServer5",
+      "ip": "106.96.125.221",
+      "country": "AT",
+      "status": false
+    },
+    {
+      "id": 7,
+      "host": "DDServer1",
+      "ip": "227.212.242.142",
+      "country": "AT",
+      "status": true
+    },
+    {
+      "id": 8,
+      "host": "DDServer1",
+      "ip": "147.140.226.65",
+      "country": "NL",
+      "status": true
+    },
+    {
+      "id": 9,
+      "host": "CCServer4",
+      "ip": "225.56.232.32",
+      "country": "DE",
+      "status": true
+    },
+    {
+      "id": 10,
+      "host": "CCServer7",
+      "ip": "71.137.119.250",
+      "country": "PL",
+      "status": true
+    },
+    {
+      "id": 11,
+      "host": "CCServer4",
+      "ip": "249.167.42.132",
+      "country": "RO",
+      "status": true
+    },
+    {
+      "id": 12,
+      "host": "BBServer5",
+      "ip": "179.136.138.241",
+      "country": "AT",
+      "status": true
+    },
+    {
+      "id": 13,
+      "host": "BBServer2",
+      "ip": "49.204.146.158",
+      "country": "PL",
+      "status": false
+    },
+    {
+      "id": 14,
+      "host": "DDServer4",
+      "ip": "240.75.204.58",
+      "country": "HU",
+      "status": false
+    },
+    {
+      "id": 15,
+      "host": "BBServer9",
+      "ip": "9.249.142.75",
+      "country": "NL",
+      "status": false
+    },
+    {
+      "id": 16,
+      "host": "DDServer9",
+      "ip": "195.72.124.190",
+      "country": "DE",
+      "status": true
+    },
+    {
+      "id": 17,
+      "host": "AAServer6",
+      "ip": "58.39.248.216",
+      "country": "RO",
+      "status": false
+    },
+    {
+      "id": 18,
+      "host": "DDServer4",
+      "ip": "11.135.166.151",
+      "country": "AT",
+      "status": true
+    },
+    {
+      "id": 19,
+      "host": "BBServer1",
+      "ip": "164.43.192.144",
+      "country": "PL",
+      "status": false
+    }
+  ]
+}

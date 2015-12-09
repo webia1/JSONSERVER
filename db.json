@@ -1,0 +1,25 @@
+{
+  "user": {
+    "id": 0,
+    "firstname": "Erkan",
+    "surename": "Buelbuel",
+    "organistation": "Aurena",
+    "email": "e.buelbuel@aurena-gruppe.at",
+    "phone": "+436601077774",
+    "note": "Auktion Software - Core Team",
+    "avatar": "none",
+    "language": "DE",
+    "platform": {
+      "platformid": "10",
+      "biddingadmission": true,
+      "linkedbidderid": "20",
+      "role": {
+        "roleid": "administrator"
+      }
+    }
+  },
+  "lang": [
+    "de_AT",
+    "en_US"
+  ]
+}
